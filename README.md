@@ -1,7 +1,7 @@
 # ProxyDDoS
 
-Lütfen dikkatli kullanınız.
+Пожалуйста, используйте с осторожностью.
 
-Not: Sadece eğitim amaçlı kodlanmıştır. Hedef websitesine yoğun bir saldırı yapılacağından dolayı oluşacak tüm hasarlar yazılımı kullanan kişiye aittir.
+Примечание: он закодирован только для образовательных целей. Весь ущерб, нанесенный из-за интенсивной атаки на целевой сайт, принадлежит человеку, использующему программное обеспечение.
 
-Kullanım: python ddos.py
+Использование: python ddos.py
